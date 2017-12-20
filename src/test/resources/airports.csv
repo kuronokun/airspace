@@ -1,0 +1,7 @@
+"id","ident","type","name","latitude_deg","longitude_deg","elevation_ft","continent","iso_country","iso_region","municipality","scheduled_service","gps_code","iata_code","local_code","home_link","wikipedia_link","keywords"
+28120,"EHAL","small_airport","Ameland Airport",53.451698303200004,5.67721986771,11,"EU","NL","NL-FR","Ameland","no","EHAL",,,"http://www.ehal.nl/","http://en.wikipedia.org/wiki/Ameland_Airport","Aachen"
+2513,"EHAM","large_airport","Amsterdam Airport Schiphol",52.3086013794,4.763889789579999,-11,"EU","NL","NL-NH","Amsterdam","yes","EHAM","AMS",,"http://www.schiphol.nl/","http://en.wikipedia.org/wiki/Amsterdam_Schiphol_Airport",
+2514,"EHBD","medium_airport","Budel Airport",51.2552986145,5.60138988495,114,"EU","NL","NL-NB","Weert","no","EHBD",,,"http://www.kempenairport.nl/","http://en.wikipedia.org/wiki/Kempen_Airport","Kempen Airport, Budel Aerodrome"
+314582,"KZR","medium_airport","Zafer Airport",39.1122006226,30.13003993225,3322,"AS","TR","TR-43","Kütahya","no","LTBZ","KZR",,"http://www.zafer.aero/","http://en.wikipedia.org/wiki/Zafer_Airport","Kütahya, Afyon, Zafer"
+6408,"LT86","small_airport","Imroz Airport",40.204498291,25.8833007812,73,"EU","TR","TR-17","Gökçeada","no","LTFK","GKD",,,"http://en.wikipedia.org/wiki/G%C3%B6k%C3%A7eada_Airport",
+4508,"LTAB","small_airport","Güvercinlik Airport",39.9350013733,32.7407989502,2687,"AS","TR","TR-06","Ankara","no","LTAB",,,,"http://en.wikipedia.org/wiki/Ankara_G%C3%BCvercinlik_Army_Air_Base",

@@ -1,0 +1,20 @@
+package com.mucahit.airspace.model
+
+case class Airport(id: Long,
+                   ident: String,
+                   atype: String,
+                   name: String,
+                   latitude_deg: Double,
+                   longitude_deg: Double,
+                   elevation_ft: Option[Int],
+                   continent: String,
+                   iso_country: String,
+                   iso_region: String,
+                   municipality: String,
+                   scheduled_service: String,
+                   gps_code: String,
+                   local_code: String,
+                   iata_code: Option[String] = None,
+                   home_link: Option[String] = None,
+                   wikipedia_link: Option[String] = None,
+                  )

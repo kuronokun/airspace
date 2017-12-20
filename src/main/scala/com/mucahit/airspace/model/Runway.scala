@@ -1,0 +1,23 @@
+package com.mucahit.airspace.model
+
+case class Runway(id: Long,
+                  airport_ref: Long,
+                  airport_ident: String,
+                  length_ft: Option[Int],
+                  width_ft: Option[Int],
+                  surface: String,
+                  lighted: Boolean,
+                  closed: Boolean,
+                  le_ident: Option[String],
+                  le_latitude_deg: Option[Double],
+                  le_longitude_deg: Option[Double],
+                  le_elevation_ft: Option[Int],
+                  le_heading_degT: Option[Int],
+                  le_displaced_threshold_ft: Option[Int],
+                  he_ident: Option[String],
+                  he_latitude_deg: Option[Double],
+                  he_longitude_deg: Option[Double],
+                  he_elevation_ft: Option[Int],
+                  he_heading_degT: Option[Int],
+                  he_displaced_threshold_ft: Option[Int],
+                 )
